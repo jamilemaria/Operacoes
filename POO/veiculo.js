@@ -51,3 +51,4 @@ const carro1 = new Carro("Toyota", "Corolla", 2023, 4);
 console.log(carro1.getInfo());
 carro1.acelerar(40)
 carro1.ligar()
+carro1.desligar();
